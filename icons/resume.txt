@@ -1,0 +1,56 @@
+                                 ﻿Nikhil Singh
+			email: nikhilsingh.cc@gmail.com
+
+About
+As a computer application student, I bring a strong passion for technology and a knack for problem-solving to every project. With a keen eye for
+detail and a dedication to staying up-to-date with the latest industry trends, I am committed to delivering innovative solutions that meet the needs
+of today's fast-paced digital world.
+
+Work Experience
+
+● Microsoft Future Ready talent Intern, 
+Nasscom, Remote 
+Worked for 3 month and completed a full website project by deploying it on azure static web app. 
+
+● E-cell IIT Bombay, Remote 
+my responsibility was to conducted seminars and lectures at my college.
+my work was to complete tasks given by our team Mentor.
+
+
+Academics
+Bachelor's of Computer application 
+Institue Of Management Studies, Noida  2019 - 2023
+ 
+PROJECTS
+Pretium Soltech ( Freelancing ) (11/2022 - 02/2023)
+- Designed and developed an engaging and user-friendly landing page for Pretium Soltech that
+eﬀectively communicates the company's mission and services to potential customers.
+Implemented responsive design techniques using HTML, CSS, and JavaScript to ensure that the pretium Soltech website is optimized for viewing on a wide range of devices, from desktops to
+mobile phones.
+- Built a robust backend using PHP to enable seamless integration of contact forms and other
+interactive elements on the website, improving user engagement and driving business growth for
+Pretium Soltech.
+
+Thinktantra ( College Project ) (10/2022 - 01/2023)
+Developed a note-selling website with modern web technologies and collaborated with a team to
+deliver a high-quality project within a tight deadline, showcasing proﬁciency in web development
+and eﬀective teamwork under pressure.
+
+SKILLS
+- c
+- c++
+- python
+- html
+- css
+- bootstrap
+- Javascript
+- google cloud
+
+CERTIFICATES AND BADGES
+Essentials of python - NCS
+Architecting with google compute engine
+specialization - Coursera
+Machine learning to Deep learning : A
+journey for remote sensing data
+classiﬁcation - ISRO
+Google cloud skill badges
